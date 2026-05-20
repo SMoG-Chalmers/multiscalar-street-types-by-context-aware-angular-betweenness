@@ -7,17 +7,19 @@
 
 ### 1. Introduction
 This repository documents the workflow for generating multiscalar street network types using the methodology 
-developed by Araldi et al. (2026) in “Street Network Centralities Across (Sub)urban Heterogeneities: A Multi-Scalar 
-Context-Aware Approach”. The approach builds on foundational work by Berghauser Pont et al. (2019), Serra (2014), 
+developed by Araldi et al. (2026) in *“Street Network Centralities Across (Sub)urban Heterogeneities: A Multi-Scalar 
+Context-Aware Approach”*. The approach builds on foundational work by Berghauser Pont et al. (2019), Serra (2014), 
 Gil and Serra (2017), and the methodological protocol by [Lopes et al. (2022)](https://github.com/SMoG-Chalmers/multiscalar-street-network-types). The methodology refines the identification of street 
 network types by adjusting angular betweenness using two forms of contextual information derived from the surrounding network: 
 
 - **Reached network length:**
+
 $$
 CB_{RL,r}(i) = \frac{aB_r(i)}{Rl_r(i)}
 $$
 
 - **Reached mean betweenness:**
+
 $$
 CB_{MB,r}(i) = \frac{aB_r(i)}{\overline{aB}_{(r;r')}(i)}
 $$
