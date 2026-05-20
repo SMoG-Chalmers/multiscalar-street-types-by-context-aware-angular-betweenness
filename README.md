@@ -3,7 +3,7 @@
 
 **Repository Author**: Flavia Lopes
 
-**Paper Authors**: Alessandro Araldi, Flavia Lopes, Ioanna Stavroulaki, Giovanni Fusco, Meta Berghauser Pont
+**Methodology Authors**: Alessandro Araldi, Flavia Lopes, Ioanna Stavroulaki, Giovanni Fusco, Meta Berghauser Pont
 
 ### 1. Introduction
 This repository documents the workflow for generating multiscalar street network types using the methodology 
