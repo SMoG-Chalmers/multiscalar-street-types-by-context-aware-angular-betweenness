@@ -38,7 +38,7 @@ The process of generating street network types follows an ETL (Extract, Transfor
 
 Different methodologies were used at various stages of the process. Python notebooks were utilized to extract part of the data and to conduct the initial phase of transformation. The Place Syntax Tool (PST) was implemented to generate the segment maps. Finally, Python notebooks were used to perform statistical analysis and load the data into the database (Figure 2).
 
-<img src="s0_Images/Figure2.png">
+<img src="s0_Images/Figure2.png" alt="Description" width="500" height="220">
 
 ###### Figure 2: methodologies utilized in the process
 
