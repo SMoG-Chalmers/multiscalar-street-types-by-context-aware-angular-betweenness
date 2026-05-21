@@ -100,8 +100,7 @@ Lopes, F. (2026). Multiscalar Context-Aware Angular Betweenness. Spatial Morphol
 3. Serra, M. L. L. A. (2014). Anatomy of an emerging metropolitan territory: Towards an integrated analytical 
    framework for metropolitan morphology (Ph.D. dissertation).
 
-4. Gil, J., & Serra, M. (2017). street-network-typologies [Software](https://figshare.
-   com/articles/software/street-network-typologies/5044462?file=8534422). figshare. https://doi.org/10.6084/m9.figshare.5044462.v1
+4. Gil, J., & Serra, M. (2017). street-network-typologies [Software](https://figshare.com/articles/software/street-network-typologies/5044462?file=8534422). figshare. https://doi.org/10.6084/m9.figshare.5044462.v1
 
 ### Acknowledgements
 This resource was produced within the emc2 project, which is funded by ANR (France), FFG (Austria), MUR (Italy) and Vinnova (Sweden) under the Driving Urban Transition Partnership, which has been co-funded by the European Commission.
