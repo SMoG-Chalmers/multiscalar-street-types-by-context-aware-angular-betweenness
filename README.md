@@ -103,7 +103,7 @@ Lopes, F. (2026). Multiscalar Context-Aware Angular Betweenness. Spatial Morphol
 4. Gil, J., & Serra, M. (2017). street-network-typologies [Software](https://figshare.com/articles/software/street-network-typologies/5044462?file=8534422). Figshare. https://doi.org/10.6084/m9.figshare.5044462.v1
 
 ### Acknowledgements
-This resource was produced within the emc2 project, which is funded by ANR (France, grant ANR-23-DUTP-0003), FFG (Austria, grant FO999905461), MUR (Italy, grant 2024/0017648) and Vinnova (Sweden, grant 2023-02581) under the Driving Urban Transition Partnership, which has been co-funded by the European Commission
+This resource was produced within the emc2 project, which is funded by ANR (France, grant ANR-23-DUTP-0003), FFG (Austria, grant FO999905461), MUR (Italy, grant 2024/0017648) and Vinnova (Sweden, grant 2023-02581) under the Driving Urban Transition Partnership, which has been co-funded by the European Commission.
 
 
 
